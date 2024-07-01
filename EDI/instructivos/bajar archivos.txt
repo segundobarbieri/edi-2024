@@ -1,0 +1,2 @@
+1. git fetch ( se fija si hay cambios)
+2. git pull origin main
