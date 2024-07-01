@@ -1,0 +1,9 @@
+subir pasos a git
+1. hacer cambios necesarios
+si hago git status los cambios se ven en ROJO
+
+2. git add. o git add ¨nombre de archivo¨
+2a- si hago git status los cambios se ven en VERDE
+
+3. git commit -m "agregando los pasos de git"
+4. git push origin main
